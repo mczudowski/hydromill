@@ -12,6 +12,7 @@ repository = "https://github.com/mczudowski/hydromill"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pydantic = "*"
 
 
 [build-system]
